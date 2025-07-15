@@ -1,7 +1,6 @@
 ﻿using AuthorizeNet.Api.Contracts.V1;
 using AuthorizeNet.Api.Controllers;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using SharpGateway.Models;
 using SharpGateway.Services;
